@@ -1,5 +1,15 @@
 ---
 title: "Multilevel Linear Model (MLM)"
+author: "Sabyasachi Patra"
+date: "March 22nd, 2021"
+toc: true
+format:
+  html:
+    html-math-method: katex
+    code-tools: true
+    self-contained: true
+execute:
+  warning: false
 ---
 
 This is a Quarto website.
